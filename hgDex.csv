@@ -1,494 +1,494 @@
-Dex No.,Pokémon,Location,Rarity,Method,MinLevel,MaxLevel,Caught
-1,Bulbasaur,Receive from Professor Oak,,,,,
-2,Ivysaur,Evolve Bulbasaur,,,,,
-3,Venusaur,Evolve Ivysaur,,,,,
-4,Charmander,Receive from Professor Oak,,,,,
-5,Charmeleon,Evolve Charmander,,,,,
-6,Charizard,Evolve Charmeleon,,,,,
-7,Squirtle,Receive from Professor Oak,,,,,
-8,Wartortle,Evolve Squirtle,,,,,
-9,Blastoise,Evolve Wartortle,,,,,
-10,Caterpie,Ilex Forest,60 %,Day,5,6,
-11,Metapod,Ilex Forest,30 %,Morning,6,6,
-12,Butterfree,Route 2,10 %,Morning,7,8,
-13,Weedle,National Park - Bug Catching Contest - Pre Nat Dex,20 %,Walk,7,18,
-14,Kakuna,National Park - Bug Catching Contest - Pre Nat Dex,10 %,Walk,9,18,
-15,Beedrill,National Park - Bug Catching Contest - Pre Nat Dex,5 %,Walk,12,15,
-16,Pidgey,Route 37,60 %,Morning,13,15,
-17,Pidgeotto,Route 8,65 %,Morning,17,19,
-18,Pidgeot,Evolve Pidgeotto,,,,,
-19,Rattata,Sprout Tower - 2F,100 %,Morning,3,6,
-20,Raticate,Route 26,40 %,Night,28,30,
-21,Spearow,Route 3,55 %,Morning,5,8,
-22,Fearow,Route 16,40 %,Morning,27,29,
-23,Ekans,Safari Zone - Marshland,-- %,Morning,15,17,
-24,Arbok,Safari Zone - Marshland,-- %,Morning,17,17,
-25,Pikachu,Viridian Forest,6 %,Morning,4,7,
-26,Raichu,Evolve Pikachu,,,,,
-27,Sandshrew,Union Cave - 1F,30 %,Walk,6,6,
-28,Sandslash,Route 26,30 %,Morning,28,28,
-29,Nidoran♀,Route 35,30 %,Morning,12,12,
-30,Nidorina,Route 13,30 %,Morning,23,23,
-31,Nidoqueen,Evolve Nidorina,,,,,
-32,Nidoran♂,Route 35,30 %,Morning,12,12,
-33,Nidorino,Route 13,30 %,Morning,23,23,
-34,Nidoking,Evolve Nidorino,,,,,
-35,Clefairy,Mt. Moon - 1F,5 %,Walk,8,8,
-36,Clefable,Evolve Clefairy,,,,,
-37,Vulpix,Trade from SoulSilver,,,,,
-38,Ninetales,Trade from DPt,,,,,
-39,Jigglypuff,Route 3,10 %,Morning,6,6,
-40,Wigglytuff,Evolve Jigglypuff,,,,,
-41,Zubat,Slowpoke Well - 1F,85 %,Walk,5,8,
-42,Golbat,Cerulean Cave - 1F,50 %,Night,38,39,
-43,Oddish,Ilex Forest,60 %,Night,5,6,
-44,Gloom,Route 48,20 %,Morning,22,24,
-45,Vileplume,Evolve Gloom,,,,,
-46,Paras,Ilex Forest,15 %,Morning,5,6,
-47,Parasect,Cerulean Cave - B1F,25 %,Walk,45,47,
-48,Venonat,Route 24,30 %,Night,8,8,
-49,Venomoth,Route 25,20 %,Night,8,8,
-50,Diglett,Vermilion City,90 %,Rock Smash,24,37,
-51,Dugtrio,Diglett's Cave,10 %,Walk,19,29,
-52,Meowth,Trade from SoulSilver,,,,,
-53,Persian,Trade from SoulSilver,,,,,
-54,Psyduck,Route 35,90 %,Surf,5,20,
-55,Golduck,Mt. Silver - 3F,30 %,Morning,48,48,
-56,Mankey,Route 42,30 %,Morning,15,15,
-57,Primeape,Cerulean Cave - 1F,14 %,Morning,38,39,
-58,Growlithe,Route 48,29 %,Night,21,25,
-59,Arcanine,Evolve Growlithe,,,,,
-60,Poliwag,Mt. Moon - Outside,100 %,Super Rod,40,40,
-61,Poliwhirl,Mt. Silver - Outside,92 %,Surf,30,48,
-62,Poliwrath,Evolve Poliwhirl,,,,,
-63,Abra,Route 8,20 %,Morning,15,15,
-64,Kadabra,Cerulean Cave - 2F,20 %,Morning,42,42,
-65,Alakazam,Evolve Kadabra,,,,,
-66,Machop,Mt. Mortar - 1F-2,35 %,Walk,13,15,
-67,Machoke,Mt. Mortar - 1F-3,30 %,Walk,32,32,
-68,Machamp,Evolve Machoke,,,,,
-69,Bellsprout,Route 24,60 %,Morning,8,10,
-70,Weepinbell,Route 44,35 %,Walk,22,24,
-71,Victreebel,Evolve Weepinbell,,,,,
-72,Tentacool,Route 32,90 %,Super Rod,40,40,
-73,Tentacruel,Route 12,70 %,Surf,25,25,
-74,Geodude,Ruins of Alph - Outside,100 %,Rock Smash,3,14,
-75,Graveler,Route 45,40 %,Walk,23,27,
-76,Golem,Evolve Graveler,,,,,
-77,Ponyta,Mt. Silver - Outside,30 %,Morning,42,42,
-78,Rapidash,Mt. Silver - Outside,10 %,Morning,44,44,
-79,Slowpoke,Slowpoke Well - 1F,100 %,Surf,5,25,
-80,Slowbro,Slowpoke Well - B1F,10 %,Surf,15,30,
-81,Magnemite,Route 38,20 %,Morning,16,16,
-82,Magneton,Cerulean Cave - B1F,15 %,Walk,45,47,
-83,Farfetch'd,Route 47,20 %,Morning,35,35,
-84,Doduo,Route 27,50 %,Morning,28,30,
-85,Dodrio,Mt. Silver - Outside,5 %,Morning,43,43,
-86,Seel,Seafoam Islands - B4F,60 %,Surf,30,4,
-87,Dewgong,Seafoam Islands - B3F,24 %,Walk,35,36,
-88,Grimer,Celadon City,90 %,Surf,15,20,
-89,Muk,Route 17,15 %,Night,30,32,
-90,Shellder,Route 41,30 %,Super Rod,40,40,
-91,Cloyster,Evolve Shellder,,,,,
-92,Gastly,Sprout Tower - 2F,85 %,Night,3,6,
-93,Haunter,Route 8,30 %,Night,19,19,
-94,Gengar,Evolve Haunter,,,,,
-95,Onix,Mt. Silver - 2F,30 %,Walk,42,42,
-96,Drowzee,Route 34,50 %,Walk,10,12,
-97,Hypno,Route 11,10 %,Walk,16,16,
-98,Krabby,Cianwood City,90 %,Rock Smash,15,24,
-99,Kingler,Cliff Cave - 1F,10 %,Morning,22,22,
-100,Voltorb,Route 10,30 %,Morning,17,17,
-101,Electrode,Cerulean Cave - 1F,5 %,Morning,40,40,
-102,Exeggcute,"Routes 26, 27, 29, 30, 31, 32, 34, 35, 36, 37, 38, 39, 43, 47 & 48, New Bark Town Cherrygrove City, Violet City, National Park, Ecruteak City, Lake of Rage, Safari Zone Gate (Headbutt)",,,,,
-103,Exeggutor,Evolve Exeggcute,,,,,
-104,Cubone,Rock Tunnel - 1F,35 %,Walk,10,13,
-105,Marowak,Rock Tunnel - B1F,5 %,Walk,14,14,
-106,Hitmonlee,Evolve Tyrogue,,,,,
-107,Hitmonchan,Evolve Tyrogue,,,,,
-108,Lickitung,Route 44,15 %,Walk,24,26,
-109,Koffing,Burned Tower - B1F,50 %,Morning,14,16,
-110,Weezing,Safari Zone - Marshland,-- %,Morning,15,17,
-111,Rhyhorn,Victory Road - 1F,5 %,Walk,35,35,
-112,Rhydon,Safari Zone - Savannah,-- %,Walk - Blocks,44,44,
-113,Chansey,Route 13,40 %,Swarm,23,23,
-114,Tangela,Route 21,95 %,Morning,20,30,
-115,Kangaskhan,Rock Tunnel - B1F,5 %,Walk,14,14,
-116,Horsea,Whirl Islands - B2F,60 %,Surf,15,25,
-117,Seadra,Whirl Islands - B2F,10 %,Surf,15,30,
-118,Goldeen,Route 42,90 %,Surf,10,25,
-119,Seaking,Mt. Silver - 2F,92 %,Surf,30,50,
-120,Staryu,Route 34,30 %,Super Rod,40,40,
-121,Starmie,Evolve Staryu,,,,,
-122,Mr. Mime,Route 21,10 %,Day,28,30,
-123,Scyther,National Park - Bug Catching Contest - Pre Nat Dex,5 %,Walk,13,14,
-124,Jynx,Seafoam Islands - B4F,12 %,Walk,38,40,
-125,Electabuzz,Route 10,10 %,Day,15,18,
-126,Magmar,Burned Tower - B1F,10 %,Day,16,16,
-127,Pinsir,National Park - Bug Catching Contest - Pre Nat Dex,5 %,Walk,13,14,
-128,Tauros,Route 48,21 %,Morning,20,20,
-129,Magikarp,Route 43,100 %,Surf,5,50,
-130,Gyarados,Mt. Silver - 2F,63 %,Super Rod,40,40,
-131,Lapras,Union Cave - B2F,-- %,Interact,20,20,
-132,Ditto,Route 47,41 %,Morning,31,40,
-133,Eevee,Receive from Bill,,,,,
-134,Vaporeon,Evolve Eevee,,,,,
-135,Jolteon,Evolve Eevee,,,,,
-136,Flareon,Evolve Eevee,,,,,
-137,Porygon,Celadon Game Corner,,,,,
-138,Omanyte,Revive Helix Fossil,,,,,
-139,Omastar,Evolve Omanyte,,,,,
-140,Kabuto,Revive Dome Fossil,,,,,
-141,Kabutops,Evolve Kabuto,,,,,
-142,Aerodactyl,Revive Old Amber,,,,,
-143,Snorlax,Route 11,-- %,Interact,50,50,
-144,Articuno,Seafoam Islands - B4F,-- %,Interact,50,50,
-145,Zapdos,Route 10,-- %,Interact,50,50,
-146,Moltres,Mt. Silver - 1F Top,-- %,Interact,50,50,
-147,Dratini,Dragon's Den,32 %,Super Rod,40,40,
-148,Dragonair,Dragon's Den,3 %,Super Rod,40,40,
-149,Dragonite,Evolve Dragonair,,,,,
-150,Mewtwo,Cerulean Cave - B1F,-- %,Interact,70,70,
-151,Mew,Trade from DPt,,,,,
-152,Chikorita,Receive from Professor Elm,,,,,
-153,Bayleef,Evolve Chikorita,,,,,
-154,Meganium,Evolve Bayleef,,,,,
-155,Cyndaquil,Receive from Professor Elm,,,,,
-156,Quilava,Evolve Cyndaquil,,,,,
-157,Typhlosion,Evolve Cyndaquil,,,,,
-158,Totodile,Receive from Professor Elm,,,,,
-159,Croconaw,Evolve Totodile,,,,,
-160,Feraligatr,Evolve Croconaw,,,,,
-161,Sentret,Route 29,40 %,Morning,2,3,
-162,Furret,Route 1,5 %,Morning,6,6,
-163,Hoothoot,National Park,100 %,Night,10,14,
-164,Noctowl,Route 8,40 %,Night,17,18,
-165,Ledyba,Trade from SoulSilver,,,,,
-166,Ledian,Trade from SoulSilver,,,,,
-167,Spinarak,Route 37,40 %,Night,13,15,
-168,Ariados,Route 2,5 %,Night,7,7,
-169,Crobat,Evolve Crobat,,,,,
-170,Chinchou,Route 41,60 %,Super Rod,40,40,
-171,Lanturn,Route 41,3 %,Super Rod,40,40,
-172,Pichu,Ilex Forest,-- %,Interact,30,30,
-173,Cleffa,Breed Clefairy/Clefable,,,,,
-174,Igglybuff,Breed Jigglypuff/Wigglytuff,,,,,
-175,Togepi,Receive from Elm's Aide,,,,,
-176,Togetic,Evolve Togepi,,,,,
-177,Natu,Ruins of Alph - Outside,90 %,Walk,18,24,
-178,Xatu,Evolve Natu,,,,,
-179,Mareep,Route 42,30 %,Morning,13,13,
-180,Flaaffy,Route 43,40 %,Day,15,17,
-181,Ampharos,Evolve Flaaffy,,,,,
-182,Bellossom,Evolve Gloom,,,,,
-183,Marill,Mt. Mortar - 1F,40 %,Swarm,13,15,
-184,Azumarill,Evolve Marill,,,,,
-185,Sudowoodo,Route 36,-- %,Interact,20,20,
-186,Politoed,Evolve Poliwhirl,,,,,
-187,Hoppip,Route 33,35 %,Morning,6,8,
-188,Skiploom,Route 14,9 %,Morning,26,26,
-189,Jumpluff,Safari Zone - Marshland,-- %,Walk - Blocks,38,38,
-190,Aipom,"Routes 28, 33, 42, 44, 45, 46, Azalea Town, Mt. Silver (Headbutt)",,,,,
-191,Sunkern,Route 24,30 %,Day,10,10,
-192,Sunflora,Evolve Sunkern,,,,,
-193,Yanma,Route 35,40 %,Swarm,12,12,
-194,Wooper,Cliff Edge Gate,90 %,Surf,20,30,
-195,Quagsire,Route 27,50 %,Night,28,30,
-196,Espeon,Evolve Eevee,,,,,
-197,Umbreon,Evolve Eevee,,,,,
-198,Murkrow,Route 7,35 %,Night,17,19,
-199,Slowking,Evolve Slowking,,,,,
-200,Misdreavus,Mt. Silver - 4F,30 %,Night,45,45,
-201,Unown,Ruins of Alph - Extention,100 %,Walk,5,5,
-202,Wobbuffet,Dark Cave - Route 45,15 %,Walk,20,25,
-203,Girafarig,Route 43,30 %,Morning,15,15,
-204,Pineco,"Routes 1, 2, 3, 4, 5, 6, 8, 22, 25, 26, 27, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 43, 47 & 48, New Bark Town, Cherrygrove City, Violet City, Ilex Forest, National Park, Ecruteak City, Lake of Rage, Safari Zone Gate Pallet Town, Viridian City, Pewter City, Cerulean City (Headbutt)",,,,,
-205,Forretress,Evolve Pineco,,,,,
-206,Dunsparce,Dark Cave - Route 31,90 %,Rock Smash,4,8,
-207,Gligar,Route 45,20 %,Walk,24,24,
-208,Steelix,Mt. Silver - 1F,20 %,Morning,48,48,
-209,Snubbull,Route 38,40 %,Swarm,13,16,
-210,Granbull,Evolve Snubbull,,,,,
-211,Qwilfish,Route 32,90 %,Swarm - Fish,20,40,
-212,Scizor,Evolve Scyther,,,,,
-213,Shuckle,Cianwood City,10 %,Rock Smash,23,28,
-214,Heracross,"Routes 7, 11, 16, 28, 33, 42, 44, 45, 46 & 47, Azalea Town Vermillion City, Celadon City, Mt. Silver (Headbutt)",,,,,
-215,Sneasel,Mt. Silver - 1F Top,20 %,Morning,48,48,
-216,Teddiursa,Trade from SoulSilver,,,,,
-217,Ursaring,Trade from SoulSilver,,,,,
-218,Slugma,Route 17,35 %,Day,29,29,
-219,Magcargo,Evolve Slugma,,,,,
-220,Swinub,Ice Path - 1F,40 %,Morning,21,23,
-221,Piloswine,Evolve Swinub,,,,,
-222,Corsola,Route 34,30 %,Super Rod,40,40,
-223,Remoraid,Route 44,90 %,Swarm - Fish,10,40,
-224,Octillery,Evolve Remoraid,,,,,
-225,Delibird,Trade from SoulSilver,,,,,
-226,Mantine,Route 41,10 %,Surf,15,25,
-227,Skarmory,Trade from SoulSilver,,,,,
-228,Houndour,Route 7,5 %,Night,15,15,
-229,Houndoom,Safari Zone - Plains,-- %,Walk - Blocks,43,45,
-230,Kingdra,Evolve Seadra,,,,,
-231,Phanpy,Route 45,10 %,Walk,20,20,
-232,Donphan,Mt. Silver - 2F,30 %,Walk,44,44,
-233,Porygon2,Evolve Porygon,,,,,
-234,Stantler,Route 37,30 %,Morning,15,15,
-235,Smeargle,Ruins of Alph - Outside,10 %,Walk,20,22,
-236,Tyrogue,Receive from Karate King in Mt. Mortar,,,,,
-237,Hitmontop,Evolve Tyrogue,,,,,
-238,Smoochum,Breed Jynx,,,,,
-239,Elekid,Breed Electabuzz/Electivire,,,,,
-240,Magby,Breed Magmar/Magmortar,,,,,
-241,Miltank,Route 47,20 %,Morning,35,35,
-242,Blissey,Evolve Chansey,,,,,
-243,Raikou,Johto,-- %,Walk,40,40,
-244,Entei,Johto,-- %,Walk,40,40,
-245,Suicune,Route 25,-- %,Interact,40,40,
-246,Larvitar,Mt. Silver - Top,10 %,Morning,15,30,
-247,Pupitar,Mt. Silver - 4F,5 %,Morning,45,45,
-248,Tyranitar,Evolve Pupitar,,,,,
-249,Lugia,Whirl Islands - Bottom,-- %,Interact,70,70,
-250,Ho-oh,Bell Tower - Top,-- %,Interact,45,45,
-251,Celebi,Trade from DPt,,,,,
-252,Treecko,Receive from Steven Stone in Silph Co.,,,,,
-253,Grovyle,Evolve Treecko,,,,,
-254,Sceptile,Evolve Grovyle,,,,,
-255,Torchic,Receive from Steven Stone in Silph Co.,,,,,
-256,Combusken,Evolve Torchic,,,,,
-257,Blaziken,Evolve Combusken,,,,,
-258,Mudkip,Receive from Steven Stone in Silph Co.,,,,,
-259,Marshtomp,Evolve Mudkip,,,,,
-260,Swampert,Evolve Marshtomp,,,,,
-261,Poochyena,Route 1,40 %,Swarm,2,2,
-262,Mightyena,Trade from DPt,,,,,
-263,Zigzagoon,Sprout Tower - 2F,20 %,Hoenn Sound,3,4,
-264,Linoone,Route 30,20 %,Hoenn Sound,4,4,
-265,Wurmple,National Park - Bug Catching Contest - Thursday,20 %,Walk,24,36,
-266,Silcoon,National Park - Bug Catching Contest - Thursday,10 %,Walk,25,32,
-267,Beautifly,National Park - Bug Catching Contest - Saturday,5 %,Walk,25,32,
-268,Cascoon,National Park - Bug Catching Contest - Saturday,10 %,Walk,25,32,
-269,Dustox,National Park - Bug Catching Contest - Thursday,5 %,Walk,25,32,
-270,Lotad,Safari Zone - Plains,-- %,Walk - Blocks,42,42,
-271,Lombre,Safari Zone - Wetland,-- %,Walk - Blocks,47,47,
-272,Ludicolo,Evolve Lombre,,,,,
-273,Seedot,Safari Zone - Meadow,-- %,Walk - Blocks,45,45,
-274,Nuzleaf,Safari Zone - Meadow,-- %,Walk - Blocks,38,38,
-275,Shiftry,Evolve Nuzleaf,,,,,
-276,Taillow,Cherrygrove City (Headbutt - Special Tree),,,,,
-277,Swellow,Evolve Taillow,,,,,
-278,Wingull,Vermilion City,60 %,Swarm - Surf,35,35,
-279,Pelipper,Evolve Wingull,,,,,
-280,Ralts,Route 34,40 %,Swarm,10,11,
-281,Kirlia,Evolve Ralts,,,,,
-282,Gardevoir,Evolve Kirlia,,,,,
-283,Surskit,Safari Zone - Plains,-- %,Walk - Blocks,46,46,
-284,Masquerain,Safari Zone - Meadow,-- %,Surf - Blocks,42,46,
-285,Shroomish,Safari Zone - Savannah,-- %,Walk - Blocks,45,45,
-286,Breloom,, %,, , ,
-287,Slakoth,Route 25 (Headbutt),,,,,
-288,Vigoroth,Safari Zone - Peak,-- %,Walk - Blocks,47,47,
-289,Slaking,Evolve Vigoroth,,,,,
-290,Nincada,National Park - Bug Catching Contest - Thursday,20 %,Walk,26,36,
-291,Ninjask,Evolve Nincada,,,,,
-292,Shedinja,Evolve Nincada,,,,,
-293,Whismur,Route 30,20 %,Hoenn Sound,3,3,
-294,Loudred,Evolve Whismur,,,,,
-295,Exploud,Evolve Loudred,,,,,
-296,Makuhita,Slowpoke Well - 1F,20 %,Hoenn Sound,7,7,
-297,Hariyama,Evolve Makuhita,,,,,
-298,Azurill,Safari Zone - Savannah,-- %,Walk - Blocks,42,42,
-299,Nosepass,Safari Zone - Meadow,-- %,Walk - Blocks,45,45,
-300,Skitty,Trade from DPtTransfer from PokķWalker,,,,,
-301,Delcatty,Evolve Skitty,,,,,
-302,Sableye,Route 9,40 %,Swarm,13,15,
-303,Mawile,Trade from SoulSilver,,,,,
-304,Aron,Safari Zone - Rocky Beach,-- %,Walk - Blocks,44,45,
-305,Lairon,Safari Zone - Peak,-- %,Walk - Blocks,45,45,
-306,Aggron,Evolve Lairon,,,,,
-307,Meditite,Sprout Tower - 2F,20 %,Sinnoh Sound,5,5,
-308,Medicham,Safari Zone - Wasteland,-- %,Walk - Blocks,44,44,
-309,Electrike,Safari Zone - Rocky Beach,-- %,Walk - Blocks,42,42,
-310,Manectric,Safari Zone - Plains,-- %,Walk - Blocks,45,45,
-311,Plusle,Route 29,20 %,Hoenn Sound,2,3,
-312,Minun,Route 29,20 %,Hoenn Sound,3,3,
-313,Volbeat,National Park - Bug Catching Contest - Thursday,10 %,Walk,26,36,
-314,Illumise,National Park - Bug Catching Contest - Saturday,10 %,Walk,26,36,
-315,Roselia,Safari Zone - Marshland,-- %,Walk - Blocks,46,46,
-316,Gulpin,Trade from SoulSilver,,,,,
-317,Swalot,Trade from DPtSS,,,,,
-318,Carvanha,Transfer from PokéWalker,,,,,
-319,Sharpedo,Evolve Carvanha,,,,,
-320,Wailmer,Transfer from PokéWalker,,,,,
-321,Wailord,Evolve Wailmer,,,,,
-322,Numel,Ilex Forest,20 %,Hoenn Sound,6,6,
-323,Camerupt,Evolve Numel,,,,,
-324,Torkoal,Safari Zone - Savannah,-- %,Walk - Blocks,46,47,
-325,Spoink,Ilex Forest,20 %,Hoenn Sound,5,6,
-326,Grumpig,Evolve Spoink,,,,,
-327,Spinda,Sprout Tower - 2F,20 %,Hoenn Sound,5,5,
-328,Trapinch,Safari Zone - Desert,-- %,Walk - Blocks,46,47,
-329,Vibrava,Safari Zone (With Blocks After Levelled Up),,,,,
-330,Flygon,Evolve Vibrava,,,,,
-331,Cacnea,Safari Zone - Desert,-- %,Walk - Blocks,35,35,
-332,Cacturne,Safari Zone - Savannah,-- %,Walk - Blocks,42,42,
-333,Swablu,Route 45,40 %,Swarm,23,23,
-334,Altaria,Evolve Swablu,,,,,
-335,Zangoose,Safari Zone - Plains,-- %,Walk - Blocks,43,43,
-336,Seviper,Safari Zone - Marshland,-- %,Walk - Blocks,48,48,
-337,Lunatone,Safari Zone - Mountain,-- %,Walk - Blocks,46,46,
-338,Solrock,Safari Zone - Wasteland,-- %,Walk - Blocks,45,46,
-339,Barboach,Safari Zone - Marshland,-- %,Super Rod - Blocks,42,45,
-340,Whiscash,Violet City,100 %,Swarm - Fish,10,40,
-341,Corphish,Safari Zone - Rocky Beach,-- %,Super Rod - Blocks,46,48,
-342,Crawdaunt,Trade from DPt,,,,,
-343,Baltoy,Route 3,40 %,Swarm,5,5,
-344,Claydol,Evolve Baltoy,,,,,
-345,Lileep,Revive Root Fossil,,,,,
-346,Cradily,Evolve Lileep,,,,,
-347,Anorith,Revive Claw Fossil,,,,,
-348,Armaldo,Evolve Anorith,,,,,
-349,Feebas,Transfer from PokéWalker,,,,,
-350,Milotic,Evolve Feebas,,,,,
-351,Castform,Transfer from PokťWalker,,,,,
-352,Kecleon,Transfer from PokķWalker,,,,,
-353,Shuppet,Safari Zone - Forest,-- %,Walk - Blocks,46,46,
-354,Banette,Safari Zone - Marshland,-- %,Walk - Blocks,44,44,
-355,Duskull,Safari Zone - Swamp,-- %,Walk - Blocks,38,38,
-356,Dusclops,Safari Zone - Mountain,-- %,Walk - Blocks,45,45,
-357,Tropius,Transfer from PokéWalker,,,,,
-358,Chimecho,Safari Zone - Swamp,-- %,Walk - Blocks,47,47,
-359,Absol,Slowpoke Well - 1F,20 %,Hoenn Sound,5,6,
-360,Wynaut,Breed Wobbuffet,,,,,
-361,Snorunt,Transfer from PokéWalker,,,,,
-362,Glalie,Evolve Snorunt,,,,,
-363,Spheal,Safari Zone - Peak,-- %,Walk - Blocks,45,45,
-364,Sealeo,Safari Zone - Mountain,-- %,Walk - Blocks,45,45,
-365,Walrein,Evolve Sealeo,,,,,
-366,Clamperl,Route 19,60 %,Swarm - Surf,35,35,
-367,Huntail,Evolve Clamperl,,,,,
-368,Gorebyss,Evolve Clamperl,,,,,
-369,Relicanth,Route 12,100 %,Swarm - Fish,10,40,
-370,Luvdisc,Route 27,60 %,Swarm - Surf,20,20,
-371,Bagon,Safari Zone - Swamp,-- %,Walk - Blocks,45,45,
-372,Shelgon,Safari Zone - Wetland,-- %,Walk - Blocks,46,46,
-373,Salamence,Evolve Shelgon,,,,,
-374,Beldum,Safari Zone - Forest,-- %,Walk - Blocks,44,44,
-375,Metang,Safari Zone - Mountain,-- %,Walk - Blocks,44,44,
-376,Metagross,Evolve Metang,,,,,
-377,Regirock,Trade from DPt,,,,,
-378,Regice,Trade from DPt,,,,,
-379,Registeel,Trade from DPt,,,,,
-380,Latias,Kanto,-- %,Walk,35,35,
-381,Latios,Pewter City,-- %,Interact,40,40,
-382,Kyogre,Embedded Tower,-- %,Interact,50,50,
-383,Groudon,Trade from SoulSilver,,,,,
-384,Rayquaza,Embedded Tower,-- %,Interact,50,50,
-385,Jirachi,Trade from DPt,,,,,
-386,Deoxys,Trade from DPt,,,,,
-387,Turtwig,Trade from DPt,,,,,
-388,Grotle,Trade from DPt,,,,,
-389,Torterra,Trade from DPt,,,,,
-390,Chimchar,Trade from DPt,,,,,
-391,Monferno,Trade from DPt,,,,,
-392,Infernape,Trade from DPt,,,,,
-393,Piplup,Trade from DPt,,,,,
-394,Prinplup,Trade from DPt,,,,,
-395,Empoleon,Trade from DPt,,,,,
-396,Starly,Pewter City (Headbutt),,,,,
-397,Staravia,Evolve Starly,,,,,
-398,Staraptor,Evolve Staravia,,,,,
-399,Bidoof,Route 30,20 %,Sinnoh Sound,4,4,
-400,Bibarel,Evolve BidoofTransfer from PokéWalker,,,,,
-401,Kricketot,Viridian Forest,40 %,Swarm,3,5,
-402,Kricketune,National Park - Bug Catching Contest - Thursday,10 %,Walk,27,30,
-403,Shinx,Route 29,40 %,Sinnoh Sound,2,3,
-404,Luxio,Safari Zone - Savannah,-- %,Walk - Blocks,45,46,
-405,Luxray,Evolve Luxio,,,,,
-406,Budew,Viridian Forest,20 %,Sinnoh Sound,3,3,
-407,Roserade,Evolve Roselia,,,,,
-408,Cranidos,Trade from DPt,,,,,
-409,Rampardos,Trade from DPt,,,,,
-410,Shieldon,Trade from DPt,,,,,
-411,Bastiodon,Trade from DPt,,,,,
-412,Burmy,Route 38 (Headbutt - Special Tree),,,,,
-413,Wormadam,Evolve Burmy,,,,,
-414,Mothim,Evolve Burmy,,,,,
-415,Combee,National Park - Bug Catching Contest - Thursday,5 %,Walk,27,34,
-416,Vespiquen,Evolve Combee,,,,,
-417,Pachirisu,Safari Zone - Wetland,-- %,Walk - Blocks,43,43,
-418,Buizel,Route 30,20 %,Sinnoh Sound,2,3,
-419,Floatzel,Safari Zone - Swamp,-- %,Walk - Blocks,44,44,
-420,Cherubi,National Park (Headbutt - Special Tree),,,,,
-421,Cherrim,Evolve Cherubi,,,,,
-422,Shellos,Transfer from PokéWalker,,,,,
-423,Gastrodon,Evolve Shellos,,,,,
-424,Ambipom,Evolve Aipom,,,,,
-425,Drifloon,Trade from DPt,,,,,
-426,Drifblim,Trade from DPt,,,,,
-427,Buneary,Route 25,40 %,Swarm,8,10,
-428,Lopunny,Evolve Buneary,,,,,
-429,Mismagius,Evolve Misdreavus,,,,,
-430,Honchkrow,Evolve Murkrow,,,,,
-431,Glameow,Trade from DPt,,,,,
-432,Purugly,Trade from DPt,,,,,
-433,Chingling,Slowpoke Well - 1F,20 %,Sinnoh Sound,7,7,
-434,Stunky,Trade from DPt,,,,,
-435,Skuntank,Trade from DPt,,,,,
-436,Bronzor,Slowpoke Well - 1F,20 %,Sinnoh Sound,5,6,
-437,Bronzong,Safari Zone - Forest,-- %,Walk - Blocks,45,45,
-438,Bonsly,Breed SudoowodoTransfer from PokéWalker,,,,,
-439,Mime Jr.,Breed Mr. MimeTransfer from PokťWalker,,,,,
-440,Happiny,Breed Chansey,,,,,
-441,Chatot,Sprout Tower - 2F,20 %,Sinnoh Sound,3,4,
-442,Spiritomb,Transfer from PokéWalker,,,,,
-443,Gible,Safari Zone - Rocky Beach,-- %,Walk - Blocks,44,44,
-444,Gabite,Evolve Gible,,,,,
-445,Garchomp,Evolve Gabite,,,,,
-446,Munchlax,Breed SnorlaxTransfer from PokéWalker,,,,,
-447,Riolu,Safari Zone - Meadow,-- %,Walk - Blocks,45,45,
-448,Lucario,Evolve Riolu,,,,,
-449,Hippopotas,Safari Zone - Desert,-- %,Walk - Blocks,43,43,
-450,Hippowdon,Evolve Hippopotas,,,,,
-451,Skorupi,Safari Zone - Wasteland,-- %,Walk - Blocks,44,45,
-452,Drapion,Evolve Skorupi,,,,,
-453,Croagunk,Safari Zone - Marshland,-- %,Walk - Blocks,44,44,
-454,Toxicroak,Evolve Croagunk,,,,,
-455,Carnivine,Ilex Forest,20 %,Sinnoh Sound,6,6,
-456,Finneon,Transfer from PokéWalker,,,,,
-457,Lumineon,Evolve Finneon,,,,,
-458,Mantyke,Breed Mantine,,,,,
-459,Snover,Transfer from PokéWalker,,,,,
-460,Abomasnow,Evolve Snover,,,,,
-461,Weavile,Evolve Sneasel,,,,,
-462,Magnezone,Trade from DPt,,,,,
-463,Lickilicky,Evolve Lickitung,,,,,
-464,Rhyperior,Evolve Rhydon,,,,,
-465,Tangrowth,Evolve Tangela,,,,,
-466,Electivire,Evolve Electabuzz,,,,,
-467,Magmortar,Evolve Magmar,,,,,
-468,Togekiss,Evolve Togetic,,,,,
-469,Yanmega,Evolve Yanma,,,,,
-470,Leafeon,Trade from DPt,,,,,
-471,Glaceon,Trade from DPt,,,,,
-472,Gliscor,Evolve Gligar,,,,,
-473,Mamoswine,Evolve Piloswine,,,,,
-474,Porygon-Z,Evolve Porygon2,,,,,
-475,Gallade,Evolve Kirlia,,,,,
-476,Probopass,Trade from DPt,,,,,
-477,Dusknoir,Evolve Dusclops,,,,,
-478,Froslass,Evolve Snorunt,,,,,
-479,Rotom,Trade from DPt,,,,,
-480,Uxie,Trade from DPt,,,,,
-481,Mesprit,Trade from DPt,,,,,
-482,Azelf,Trade from DPt,,,,,
-483,Dialga,Sinjoh Ruins,,,,,
-484,Palkia,Sinjoh Ruins,,,,,
-485,Heatran,Trade from DPt,,,,,
-486,Regigigas,Trade from DPt,,,,,
-487,Giratina,Sinjoh Ruins,,,,,
-488,Cresselia,Trade from DPt,,,,,
-489,Phione,Trade from DPt,,,,,
-490,Manaphy,Trade from DPt,,,,,
-491,Darkrai,Trade from DPt,,,,,
-492,Shaymin,Trade from DPt,,,,,
-493,Arceus,Trade from DPt,,,,,
+Dex No.,Pokémon,Location,Rarity,Method,MinLevel,MaxLevel
+1,Bulbasaur,Receive from Professor Oak,,,,
+2,Ivysaur,Evolve Bulbasaur,,,,
+3,Venusaur,Evolve Ivysaur,,,,
+4,Charmander,Receive from Professor Oak,,,,
+5,Charmeleon,Evolve Charmander,,,,
+6,Charizard,Evolve Charmeleon,,,,
+7,Squirtle,Receive from Professor Oak,,,,
+8,Wartortle,Evolve Squirtle,,,,
+9,Blastoise,Evolve Wartortle,,,,
+10,Caterpie,Ilex Forest,60 %,Day,5,6
+11,Metapod,Ilex Forest,30 %,Morning,6,6
+12,Butterfree,Route 2,10 %,Morning,7,8
+13,Weedle,National Park - Bug Catching Contest - Pre Nat Dex,20 %,Walk,7,18
+14,Kakuna,National Park - Bug Catching Contest - Pre Nat Dex,10 %,Walk,9,18
+15,Beedrill,National Park - Bug Catching Contest - Pre Nat Dex,5 %,Walk,12,15
+16,Pidgey,Route 37,60 %,Morning,13,15
+17,Pidgeotto,Route 8,65 %,Morning,17,19
+18,Pidgeot,Evolve Pidgeotto,,,,
+19,Rattata,Sprout Tower - 2F,100 %,Morning,3,6
+20,Raticate,Route 26,40 %,Night,28,30
+21,Spearow,Route 3,55 %,Morning,5,8
+22,Fearow,Route 16,40 %,Morning,27,29
+23,Ekans,Safari Zone - Marshland,-- %,Morning,15,17
+24,Arbok,Safari Zone - Marshland,-- %,Morning,17,17
+25,Pikachu,Viridian Forest,6 %,Morning,4,7
+26,Raichu,Evolve Pikachu,,,,
+27,Sandshrew,Union Cave - 1F,30 %,Walk,6,6
+28,Sandslash,Route 26,30 %,Morning,28,28
+29,Nidoran♀,Route 35,30 %,Morning,12,12
+30,Nidorina,Route 13,30 %,Morning,23,23
+31,Nidoqueen,Evolve Nidorina,,,,
+32,Nidoran♂,Route 35,30 %,Morning,12,12
+33,Nidorino,Route 13,30 %,Morning,23,23
+34,Nidoking,Evolve Nidorino,,,,
+35,Clefairy,Mt. Moon - 1F,5 %,Walk,8,8
+36,Clefable,Evolve Clefairy,,,,
+37,Vulpix,Trade from SoulSilver,,,,
+38,Ninetales,Trade from DPt,,,,
+39,Jigglypuff,Route 3,10 %,Morning,6,6
+40,Wigglytuff,Evolve Jigglypuff,,,,
+41,Zubat,Slowpoke Well - 1F,85 %,Walk,5,8
+42,Golbat,Cerulean Cave - 1F,50 %,Night,38,39
+43,Oddish,Ilex Forest,60 %,Night,5,6
+44,Gloom,Route 48,20 %,Morning,22,24
+45,Vileplume,Evolve Gloom,,,,
+46,Paras,Ilex Forest,15 %,Morning,5,6
+47,Parasect,Cerulean Cave - B1F,25 %,Walk,45,47
+48,Venonat,Route 24,30 %,Night,8,8
+49,Venomoth,Route 25,20 %,Night,8,8
+50,Diglett,Vermilion City,90 %,Rock Smash,24,37
+51,Dugtrio,Diglett's Cave,10 %,Walk,19,29
+52,Meowth,Trade from SoulSilver,,,,
+53,Persian,Trade from SoulSilver,,,,
+54,Psyduck,Route 35,90 %,Surf,5,20
+55,Golduck,Mt. Silver - 3F,30 %,Morning,48,48
+56,Mankey,Route 42,30 %,Morning,15,15
+57,Primeape,Cerulean Cave - 1F,14 %,Morning,38,39
+58,Growlithe,Route 48,29 %,Night,21,25
+59,Arcanine,Evolve Growlithe,,,,
+60,Poliwag,Mt. Moon - Outside,100 %,Super Rod,40,40
+61,Poliwhirl,Mt. Silver - Outside,92 %,Surf,30,48
+62,Poliwrath,Evolve Poliwhirl,,,,
+63,Abra,Route 8,20 %,Morning,15,15
+64,Kadabra,Cerulean Cave - 2F,20 %,Morning,42,42
+65,Alakazam,Evolve Kadabra,,,,
+66,Machop,Mt. Mortar - 1F-2,35 %,Walk,13,15
+67,Machoke,Mt. Mortar - 1F-3,30 %,Walk,32,32
+68,Machamp,Evolve Machoke,,,,
+69,Bellsprout,Route 24,60 %,Morning,8,10
+70,Weepinbell,Route 44,35 %,Walk,22,24
+71,Victreebel,Evolve Weepinbell,,,,
+72,Tentacool,Route 32,90 %,Super Rod,40,40
+73,Tentacruel,Route 12,70 %,Surf,25,25
+74,Geodude,Ruins of Alph - Outside,100 %,Rock Smash,3,14
+75,Graveler,Route 45,40 %,Walk,23,27
+76,Golem,Evolve Graveler,,,,
+77,Ponyta,Mt. Silver - Outside,30 %,Morning,42,42
+78,Rapidash,Mt. Silver - Outside,10 %,Morning,44,44
+79,Slowpoke,Slowpoke Well - 1F,100 %,Surf,5,25
+80,Slowbro,Slowpoke Well - B1F,10 %,Surf,15,30
+81,Magnemite,Route 38,20 %,Morning,16,16
+82,Magneton,Cerulean Cave - B1F,15 %,Walk,45,47
+83,Farfetch'd,Route 47,20 %,Morning,35,35
+84,Doduo,Route 27,50 %,Morning,28,30
+85,Dodrio,Mt. Silver - Outside,5 %,Morning,43,43
+86,Seel,Seafoam Islands - B4F,60 %,Surf,30,4
+87,Dewgong,Seafoam Islands - B3F,24 %,Walk,35,36
+88,Grimer,Celadon City,90 %,Surf,15,20
+89,Muk,Route 17,15 %,Night,30,32
+90,Shellder,Route 41,30 %,Super Rod,40,40
+91,Cloyster,Evolve Shellder,,,,
+92,Gastly,Sprout Tower - 2F,85 %,Night,3,6
+93,Haunter,Route 8,30 %,Night,19,19
+94,Gengar,Evolve Haunter,,,,
+95,Onix,Mt. Silver - 2F,30 %,Walk,42,42
+96,Drowzee,Route 34,50 %,Walk,10,12
+97,Hypno,Route 11,10 %,Walk,16,16
+98,Krabby,Cianwood City,90 %,Rock Smash,15,24
+99,Kingler,Cliff Cave - 1F,10 %,Morning,22,22
+100,Voltorb,Route 10,30 %,Morning,17,17
+101,Electrode,Cerulean Cave - 1F,5 %,Morning,40,40
+102,Exeggcute,"Routes 26, 27, 29, 30, 31, 32, 34, 35, 36, 37, 38, 39, 43, 47 & 48, New Bark Town Cherrygrove City, Violet City, National Park, Ecruteak City, Lake of Rage, Safari Zone Gate (Headbutt)",,,,
+103,Exeggutor,Evolve Exeggcute,,,,
+104,Cubone,Rock Tunnel - 1F,35 %,Walk,10,13
+105,Marowak,Rock Tunnel - B1F,5 %,Walk,14,14
+106,Hitmonlee,Evolve Tyrogue,,,,
+107,Hitmonchan,Evolve Tyrogue,,,,
+108,Lickitung,Route 44,15 %,Walk,24,26
+109,Koffing,Burned Tower - B1F,50 %,Morning,14,16
+110,Weezing,Safari Zone - Marshland,-- %,Morning,15,17
+111,Rhyhorn,Victory Road - 1F,5 %,Walk,35,35
+112,Rhydon,Safari Zone - Savannah,-- %,Walk - Blocks,44,44
+113,Chansey,Route 13,40 %,Swarm,23,23
+114,Tangela,Route 21,95 %,Morning,20,30
+115,Kangaskhan,Rock Tunnel - B1F,5 %,Walk,14,14
+116,Horsea,Whirl Islands - B2F,60 %,Surf,15,25
+117,Seadra,Whirl Islands - B2F,10 %,Surf,15,30
+118,Goldeen,Route 42,90 %,Surf,10,25
+119,Seaking,Mt. Silver - 2F,92 %,Surf,30,50
+120,Staryu,Route 34,30 %,Super Rod,40,40
+121,Starmie,Evolve Staryu,,,,
+122,Mr. Mime,Route 21,10 %,Day,28,30
+123,Scyther,National Park - Bug Catching Contest - Pre Nat Dex,5 %,Walk,13,14
+124,Jynx,Seafoam Islands - B4F,12 %,Walk,38,40
+125,Electabuzz,Route 10,10 %,Day,15,18
+126,Magmar,Burned Tower - B1F,10 %,Day,16,16
+127,Pinsir,National Park - Bug Catching Contest - Pre Nat Dex,5 %,Walk,13,14
+128,Tauros,Route 48,21 %,Morning,20,20
+129,Magikarp,Route 43,100 %,Surf,5,50
+130,Gyarados,Mt. Silver - 2F,63 %,Super Rod,40,40
+131,Lapras,Union Cave - B2F,-- %,Interact,20,20
+132,Ditto,Route 47,41 %,Morning,31,40
+133,Eevee,Receive from Bill,,,,
+134,Vaporeon,Evolve Eevee,,,,
+135,Jolteon,Evolve Eevee,,,,
+136,Flareon,Evolve Eevee,,,,
+137,Porygon,Celadon Game Corner,,,,
+138,Omanyte,Revive Helix Fossil,,,,
+139,Omastar,Evolve Omanyte,,,,
+140,Kabuto,Revive Dome Fossil,,,,
+141,Kabutops,Evolve Kabuto,,,,
+142,Aerodactyl,Revive Old Amber,,,,
+143,Snorlax,Route 11,-- %,Interact,50,50
+144,Articuno,Seafoam Islands - B4F,-- %,Interact,50,50
+145,Zapdos,Route 10,-- %,Interact,50,50
+146,Moltres,Mt. Silver - 1F Top,-- %,Interact,50,50
+147,Dratini,Dragon's Den,32 %,Super Rod,40,40
+148,Dragonair,Dragon's Den,3 %,Super Rod,40,40
+149,Dragonite,Evolve Dragonair,,,,
+150,Mewtwo,Cerulean Cave - B1F,-- %,Interact,70,70
+151,Mew,Trade from DPt,,,,
+152,Chikorita,Receive from Professor Elm,,,,
+153,Bayleef,Evolve Chikorita,,,,
+154,Meganium,Evolve Bayleef,,,,
+155,Cyndaquil,Receive from Professor Elm,,,,
+156,Quilava,Evolve Cyndaquil,,,,
+157,Typhlosion,Evolve Cyndaquil,,,,
+158,Totodile,Receive from Professor Elm,,,,
+159,Croconaw,Evolve Totodile,,,,
+160,Feraligatr,Evolve Croconaw,,,,
+161,Sentret,Route 29,40 %,Morning,2,3
+162,Furret,Route 1,5 %,Morning,6,6
+163,Hoothoot,National Park,100 %,Night,10,14
+164,Noctowl,Route 8,40 %,Night,17,18
+165,Ledyba,Trade from SoulSilver,,,,
+166,Ledian,Trade from SoulSilver,,,,
+167,Spinarak,Route 37,40 %,Night,13,15
+168,Ariados,Route 2,5 %,Night,7,7
+169,Crobat,Evolve Crobat,,,,
+170,Chinchou,Route 41,60 %,Super Rod,40,40
+171,Lanturn,Route 41,3 %,Super Rod,40,40
+172,Pichu,Ilex Forest,-- %,Interact,30,30
+173,Cleffa,Breed Clefairy/Clefable,,,,
+174,Igglybuff,Breed Jigglypuff/Wigglytuff,,,,
+175,Togepi,Receive from Elm's Aide,,,,
+176,Togetic,Evolve Togepi,,,,
+177,Natu,Ruins of Alph - Outside,90 %,Walk,18,24
+178,Xatu,Evolve Natu,,,,
+179,Mareep,Route 42,30 %,Morning,13,13
+180,Flaaffy,Route 43,40 %,Day,15,17
+181,Ampharos,Evolve Flaaffy,,,,
+182,Bellossom,Evolve Gloom,,,,
+183,Marill,Mt. Mortar - 1F,40 %,Swarm,13,15
+184,Azumarill,Evolve Marill,,,,
+185,Sudowoodo,Route 36,-- %,Interact,20,20
+186,Politoed,Evolve Poliwhirl,,,,
+187,Hoppip,Route 33,35 %,Morning,6,8
+188,Skiploom,Route 14,9 %,Morning,26,26
+189,Jumpluff,Safari Zone - Marshland,-- %,Walk - Blocks,38,38
+190,Aipom,"Routes 28, 33, 42, 44, 45, 46, Azalea Town, Mt. Silver (Headbutt)",,,,
+191,Sunkern,Route 24,30 %,Day,10,10
+192,Sunflora,Evolve Sunkern,,,,
+193,Yanma,Route 35,40 %,Swarm,12,12
+194,Wooper,Cliff Edge Gate,90 %,Surf,20,30
+195,Quagsire,Route 27,50 %,Night,28,30
+196,Espeon,Evolve Eevee,,,,
+197,Umbreon,Evolve Eevee,,,,
+198,Murkrow,Route 7,35 %,Night,17,19
+199,Slowking,Evolve Slowking,,,,
+200,Misdreavus,Mt. Silver - 4F,30 %,Night,45,45
+201,Unown,Ruins of Alph - Extention,100 %,Walk,5,5
+202,Wobbuffet,Dark Cave - Route 45,15 %,Walk,20,25
+203,Girafarig,Route 43,30 %,Morning,15,15
+204,Pineco,"Routes 1, 2, 3, 4, 5, 6, 8, 22, 25, 26, 27, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 43, 47 & 48, New Bark Town, Cherrygrove City, Violet City, Ilex Forest, National Park, Ecruteak City, Lake of Rage, Safari Zone Gate Pallet Town, Viridian City, Pewter City, Cerulean City (Headbutt)",,,,
+205,Forretress,Evolve Pineco,,,,
+206,Dunsparce,Dark Cave - Route 31,90 %,Rock Smash,4,8
+207,Gligar,Route 45,20 %,Walk,24,24
+208,Steelix,Mt. Silver - 1F,20 %,Morning,48,48
+209,Snubbull,Route 38,40 %,Swarm,13,16
+210,Granbull,Evolve Snubbull,,,,
+211,Qwilfish,Route 32,90 %,Swarm - Fish,20,40
+212,Scizor,Evolve Scyther,,,,
+213,Shuckle,Cianwood City,10 %,Rock Smash,23,28
+214,Heracross,"Routes 7, 11, 16, 28, 33, 42, 44, 45, 46 & 47, Azalea Town Vermillion City, Celadon City, Mt. Silver (Headbutt)",,,,
+215,Sneasel,Mt. Silver - 1F Top,20 %,Morning,48,48
+216,Teddiursa,Trade from SoulSilver,,,,
+217,Ursaring,Trade from SoulSilver,,,,
+218,Slugma,Route 17,35 %,Day,29,29
+219,Magcargo,Evolve Slugma,,,,
+220,Swinub,Ice Path - 1F,40 %,Morning,21,23
+221,Piloswine,Evolve Swinub,,,,
+222,Corsola,Route 34,30 %,Super Rod,40,40
+223,Remoraid,Route 44,90 %,Swarm - Fish,10,40
+224,Octillery,Evolve Remoraid,,,,
+225,Delibird,Trade from SoulSilver,,,,
+226,Mantine,Route 41,10 %,Surf,15,25
+227,Skarmory,Trade from SoulSilver,,,,
+228,Houndour,Route 7,5 %,Night,15,15
+229,Houndoom,Safari Zone - Plains,-- %,Walk - Blocks,43,45
+230,Kingdra,Evolve Seadra,,,,
+231,Phanpy,Route 45,10 %,Walk,20,20
+232,Donphan,Mt. Silver - 2F,30 %,Walk,44,44
+233,Porygon2,Evolve Porygon,,,,
+234,Stantler,Route 37,30 %,Morning,15,15
+235,Smeargle,Ruins of Alph - Outside,10 %,Walk,20,22
+236,Tyrogue,Receive from Karate King in Mt. Mortar,,,,
+237,Hitmontop,Evolve Tyrogue,,,,
+238,Smoochum,Breed Jynx,,,,
+239,Elekid,Breed Electabuzz/Electivire,,,,
+240,Magby,Breed Magmar/Magmortar,,,,
+241,Miltank,Route 47,20 %,Morning,35,35
+242,Blissey,Evolve Chansey,,,,
+243,Raikou,Johto,-- %,Walk,40,40
+244,Entei,Johto,-- %,Walk,40,40
+245,Suicune,Route 25,-- %,Interact,40,40
+246,Larvitar,Mt. Silver - Top,10 %,Morning,15,30
+247,Pupitar,Mt. Silver - 4F,5 %,Morning,45,45
+248,Tyranitar,Evolve Pupitar,,,,
+249,Lugia,Whirl Islands - Bottom,-- %,Interact,70,70
+250,Ho-oh,Bell Tower - Top,-- %,Interact,45,45
+251,Celebi,Trade from DPt,,,,
+252,Treecko,Receive from Steven Stone in Silph Co.,,,,
+253,Grovyle,Evolve Treecko,,,,
+254,Sceptile,Evolve Grovyle,,,,
+255,Torchic,Receive from Steven Stone in Silph Co.,,,,
+256,Combusken,Evolve Torchic,,,,
+257,Blaziken,Evolve Combusken,,,,
+258,Mudkip,Receive from Steven Stone in Silph Co.,,,,
+259,Marshtomp,Evolve Mudkip,,,,
+260,Swampert,Evolve Marshtomp,,,,
+261,Poochyena,Route 1,40 %,Swarm,2,2
+262,Mightyena,Trade from DPt,,,,
+263,Zigzagoon,Sprout Tower - 2F,20 %,Hoenn Sound,3,4
+264,Linoone,Route 30,20 %,Hoenn Sound,4,4
+265,Wurmple,National Park - Bug Catching Contest - Thursday,20 %,Walk,24,36
+266,Silcoon,National Park - Bug Catching Contest - Thursday,10 %,Walk,25,32
+267,Beautifly,National Park - Bug Catching Contest - Saturday,5 %,Walk,25,32
+268,Cascoon,National Park - Bug Catching Contest - Saturday,10 %,Walk,25,32
+269,Dustox,National Park - Bug Catching Contest - Thursday,5 %,Walk,25,32
+270,Lotad,Safari Zone - Plains,-- %,Walk - Blocks,42,42
+271,Lombre,Safari Zone - Wetland,-- %,Walk - Blocks,47,47
+272,Ludicolo,Evolve Lombre,,,,
+273,Seedot,Safari Zone - Meadow,-- %,Walk - Blocks,45,45
+274,Nuzleaf,Safari Zone - Meadow,-- %,Walk - Blocks,38,38
+275,Shiftry,Evolve Nuzleaf,,,,
+276,Taillow,Cherrygrove City (Headbutt - Special Tree),,,,
+277,Swellow,Evolve Taillow,,,,
+278,Wingull,Vermilion City,60 %,Swarm - Surf,35,35
+279,Pelipper,Evolve Wingull,,,,
+280,Ralts,Route 34,40 %,Swarm,10,11
+281,Kirlia,Evolve Ralts,,,,
+282,Gardevoir,Evolve Kirlia,,,,
+283,Surskit,Safari Zone - Plains,-- %,Walk - Blocks,46,46
+284,Masquerain,Safari Zone - Meadow,-- %,Surf - Blocks,42,46
+285,Shroomish,Safari Zone - Savannah,-- %,Walk - Blocks,45,45
+286,Breloom,, %,, , 
+287,Slakoth,Route 25 (Headbutt),,,,
+288,Vigoroth,Safari Zone - Peak,-- %,Walk - Blocks,47,47
+289,Slaking,Evolve Vigoroth,,,,
+290,Nincada,National Park - Bug Catching Contest - Thursday,20 %,Walk,26,36
+291,Ninjask,Evolve Nincada,,,,
+292,Shedinja,Evolve Nincada,,,,
+293,Whismur,Route 30,20 %,Hoenn Sound,3,3
+294,Loudred,Evolve Whismur,,,,
+295,Exploud,Evolve Loudred,,,,
+296,Makuhita,Slowpoke Well - 1F,20 %,Hoenn Sound,7,7
+297,Hariyama,Evolve Makuhita,,,,
+298,Azurill,Safari Zone - Savannah,-- %,Walk - Blocks,42,42
+299,Nosepass,Safari Zone - Meadow,-- %,Walk - Blocks,45,45
+300,Skitty,Trade from DPtTransfer from PokķWalker,,,,
+301,Delcatty,Evolve Skitty,,,,
+302,Sableye,Route 9,40 %,Swarm,13,15
+303,Mawile,Trade from SoulSilver,,,,
+304,Aron,Safari Zone - Rocky Beach,-- %,Walk - Blocks,44,45
+305,Lairon,Safari Zone - Peak,-- %,Walk - Blocks,45,45
+306,Aggron,Evolve Lairon,,,,
+307,Meditite,Sprout Tower - 2F,20 %,Sinnoh Sound,5,5
+308,Medicham,Safari Zone - Wasteland,-- %,Walk - Blocks,44,44
+309,Electrike,Safari Zone - Rocky Beach,-- %,Walk - Blocks,42,42
+310,Manectric,Safari Zone - Plains,-- %,Walk - Blocks,45,45
+311,Plusle,Route 29,20 %,Hoenn Sound,2,3
+312,Minun,Route 29,20 %,Hoenn Sound,3,3
+313,Volbeat,National Park - Bug Catching Contest - Thursday,10 %,Walk,26,36
+314,Illumise,National Park - Bug Catching Contest - Saturday,10 %,Walk,26,36
+315,Roselia,Safari Zone - Marshland,-- %,Walk - Blocks,46,46
+316,Gulpin,Trade from SoulSilver,,,,
+317,Swalot,Trade from DPtSS,,,,
+318,Carvanha,Transfer from PokéWalker,,,,
+319,Sharpedo,Evolve Carvanha,,,,
+320,Wailmer,Transfer from PokéWalker,,,,
+321,Wailord,Evolve Wailmer,,,,
+322,Numel,Ilex Forest,20 %,Hoenn Sound,6,6
+323,Camerupt,Evolve Numel,,,,
+324,Torkoal,Safari Zone - Savannah,-- %,Walk - Blocks,46,47
+325,Spoink,Ilex Forest,20 %,Hoenn Sound,5,6
+326,Grumpig,Evolve Spoink,,,,
+327,Spinda,Sprout Tower - 2F,20 %,Hoenn Sound,5,5
+328,Trapinch,Safari Zone - Desert,-- %,Walk - Blocks,46,47
+329,Vibrava,Safari Zone (With Blocks After Levelled Up),,,,
+330,Flygon,Evolve Vibrava,,,,
+331,Cacnea,Safari Zone - Desert,-- %,Walk - Blocks,35,35
+332,Cacturne,Safari Zone - Savannah,-- %,Walk - Blocks,42,42
+333,Swablu,Route 45,40 %,Swarm,23,23
+334,Altaria,Evolve Swablu,,,,
+335,Zangoose,Safari Zone - Plains,-- %,Walk - Blocks,43,43
+336,Seviper,Safari Zone - Marshland,-- %,Walk - Blocks,48,48
+337,Lunatone,Safari Zone - Mountain,-- %,Walk - Blocks,46,46
+338,Solrock,Safari Zone - Wasteland,-- %,Walk - Blocks,45,46
+339,Barboach,Safari Zone - Marshland,-- %,Super Rod - Blocks,42,45
+340,Whiscash,Violet City,100 %,Swarm - Fish,10,40
+341,Corphish,Safari Zone - Rocky Beach,-- %,Super Rod - Blocks,46,48
+342,Crawdaunt,Trade from DPt,,,,
+343,Baltoy,Route 3,40 %,Swarm,5,5
+344,Claydol,Evolve Baltoy,,,,
+345,Lileep,Revive Root Fossil,,,,
+346,Cradily,Evolve Lileep,,,,
+347,Anorith,Revive Claw Fossil,,,,
+348,Armaldo,Evolve Anorith,,,,
+349,Feebas,Transfer from PokéWalker,,,,
+350,Milotic,Evolve Feebas,,,,
+351,Castform,Transfer from PokťWalker,,,,
+352,Kecleon,Transfer from PokķWalker,,,,
+353,Shuppet,Safari Zone - Forest,-- %,Walk - Blocks,46,46
+354,Banette,Safari Zone - Marshland,-- %,Walk - Blocks,44,44
+355,Duskull,Safari Zone - Swamp,-- %,Walk - Blocks,38,38
+356,Dusclops,Safari Zone - Mountain,-- %,Walk - Blocks,45,45
+357,Tropius,Transfer from PokéWalker,,,,
+358,Chimecho,Safari Zone - Swamp,-- %,Walk - Blocks,47,47
+359,Absol,Slowpoke Well - 1F,20 %,Hoenn Sound,5,6
+360,Wynaut,Breed Wobbuffet,,,,
+361,Snorunt,Transfer from PokéWalker,,,,
+362,Glalie,Evolve Snorunt,,,,
+363,Spheal,Safari Zone - Peak,-- %,Walk - Blocks,45,45
+364,Sealeo,Safari Zone - Mountain,-- %,Walk - Blocks,45,45
+365,Walrein,Evolve Sealeo,,,,
+366,Clamperl,Route 19,60 %,Swarm - Surf,35,35
+367,Huntail,Evolve Clamperl,,,,
+368,Gorebyss,Evolve Clamperl,,,,
+369,Relicanth,Route 12,100 %,Swarm - Fish,10,40
+370,Luvdisc,Route 27,60 %,Swarm - Surf,20,20
+371,Bagon,Safari Zone - Swamp,-- %,Walk - Blocks,45,45
+372,Shelgon,Safari Zone - Wetland,-- %,Walk - Blocks,46,46
+373,Salamence,Evolve Shelgon,,,,
+374,Beldum,Safari Zone - Forest,-- %,Walk - Blocks,44,44
+375,Metang,Safari Zone - Mountain,-- %,Walk - Blocks,44,44
+376,Metagross,Evolve Metang,,,,
+377,Regirock,Trade from DPt,,,,
+378,Regice,Trade from DPt,,,,
+379,Registeel,Trade from DPt,,,,
+380,Latias,Kanto,-- %,Walk,35,35
+381,Latios,Pewter City,-- %,Interact,40,40
+382,Kyogre,Embedded Tower,-- %,Interact,50,50
+383,Groudon,Trade from SoulSilver,,,,
+384,Rayquaza,Embedded Tower,-- %,Interact,50,50
+385,Jirachi,Trade from DPt,,,,
+386,Deoxys,Trade from DPt,,,,
+387,Turtwig,Trade from DPt,,,,
+388,Grotle,Trade from DPt,,,,
+389,Torterra,Trade from DPt,,,,
+390,Chimchar,Trade from DPt,,,,
+391,Monferno,Trade from DPt,,,,
+392,Infernape,Trade from DPt,,,,
+393,Piplup,Trade from DPt,,,,
+394,Prinplup,Trade from DPt,,,,
+395,Empoleon,Trade from DPt,,,,
+396,Starly,Pewter City (Headbutt),,,,
+397,Staravia,Evolve Starly,,,,
+398,Staraptor,Evolve Staravia,,,,
+399,Bidoof,Route 30,20 %,Sinnoh Sound,4,4
+400,Bibarel,Evolve BidoofTransfer from PokéWalker,,,,
+401,Kricketot,Viridian Forest,40 %,Swarm,3,5
+402,Kricketune,National Park - Bug Catching Contest - Thursday,10 %,Walk,27,30
+403,Shinx,Route 29,40 %,Sinnoh Sound,2,3
+404,Luxio,Safari Zone - Savannah,-- %,Walk - Blocks,45,46
+405,Luxray,Evolve Luxio,,,,
+406,Budew,Viridian Forest,20 %,Sinnoh Sound,3,3
+407,Roserade,Evolve Roselia,,,,
+408,Cranidos,Trade from DPt,,,,
+409,Rampardos,Trade from DPt,,,,
+410,Shieldon,Trade from DPt,,,,
+411,Bastiodon,Trade from DPt,,,,
+412,Burmy,Route 38 (Headbutt - Special Tree),,,,
+413,Wormadam,Evolve Burmy,,,,
+414,Mothim,Evolve Burmy,,,,
+415,Combee,National Park - Bug Catching Contest - Thursday,5 %,Walk,27,34
+416,Vespiquen,Evolve Combee,,,,
+417,Pachirisu,Safari Zone - Wetland,-- %,Walk - Blocks,43,43
+418,Buizel,Route 30,20 %,Sinnoh Sound,2,3
+419,Floatzel,Safari Zone - Swamp,-- %,Walk - Blocks,44,44
+420,Cherubi,National Park (Headbutt - Special Tree),,,,
+421,Cherrim,Evolve Cherubi,,,,
+422,Shellos,Transfer from PokéWalker,,,,
+423,Gastrodon,Evolve Shellos,,,,
+424,Ambipom,Evolve Aipom,,,,
+425,Drifloon,Trade from DPt,,,,
+426,Drifblim,Trade from DPt,,,,
+427,Buneary,Route 25,40 %,Swarm,8,10
+428,Lopunny,Evolve Buneary,,,,
+429,Mismagius,Evolve Misdreavus,,,,
+430,Honchkrow,Evolve Murkrow,,,,
+431,Glameow,Trade from DPt,,,,
+432,Purugly,Trade from DPt,,,,
+433,Chingling,Slowpoke Well - 1F,20 %,Sinnoh Sound,7,7
+434,Stunky,Trade from DPt,,,,
+435,Skuntank,Trade from DPt,,,,
+436,Bronzor,Slowpoke Well - 1F,20 %,Sinnoh Sound,5,6
+437,Bronzong,Safari Zone - Forest,-- %,Walk - Blocks,45,45
+438,Bonsly,Breed SudoowodoTransfer from PokéWalker,,,,
+439,Mime Jr.,Breed Mr. MimeTransfer from PokťWalker,,,,
+440,Happiny,Breed Chansey,,,,
+441,Chatot,Sprout Tower - 2F,20 %,Sinnoh Sound,3,4
+442,Spiritomb,Transfer from PokéWalker,,,,
+443,Gible,Safari Zone - Rocky Beach,-- %,Walk - Blocks,44,44
+444,Gabite,Evolve Gible,,,,
+445,Garchomp,Evolve Gabite,,,,
+446,Munchlax,Breed SnorlaxTransfer from PokéWalker,,,,
+447,Riolu,Safari Zone - Meadow,-- %,Walk - Blocks,45,45
+448,Lucario,Evolve Riolu,,,,
+449,Hippopotas,Safari Zone - Desert,-- %,Walk - Blocks,43,43
+450,Hippowdon,Evolve Hippopotas,,,,
+451,Skorupi,Safari Zone - Wasteland,-- %,Walk - Blocks,44,45
+452,Drapion,Evolve Skorupi,,,,
+453,Croagunk,Safari Zone - Marshland,-- %,Walk - Blocks,44,44
+454,Toxicroak,Evolve Croagunk,,,,
+455,Carnivine,Ilex Forest,20 %,Sinnoh Sound,6,6
+456,Finneon,Transfer from PokéWalker,,,,
+457,Lumineon,Evolve Finneon,,,,
+458,Mantyke,Breed Mantine,,,,
+459,Snover,Transfer from PokéWalker,,,,
+460,Abomasnow,Evolve Snover,,,,
+461,Weavile,Evolve Sneasel,,,,
+462,Magnezone,Trade from DPt,,,,
+463,Lickilicky,Evolve Lickitung,,,,
+464,Rhyperior,Evolve Rhydon,,,,
+465,Tangrowth,Evolve Tangela,,,,
+466,Electivire,Evolve Electabuzz,,,,
+467,Magmortar,Evolve Magmar,,,,
+468,Togekiss,Evolve Togetic,,,,
+469,Yanmega,Evolve Yanma,,,,
+470,Leafeon,Trade from DPt,,,,
+471,Glaceon,Trade from DPt,,,,
+472,Gliscor,Evolve Gligar,,,,
+473,Mamoswine,Evolve Piloswine,,,,
+474,Porygon-Z,Evolve Porygon2,,,,
+475,Gallade,Evolve Kirlia,,,,
+476,Probopass,Trade from DPt,,,,
+477,Dusknoir,Evolve Dusclops,,,,
+478,Froslass,Evolve Snorunt,,,,
+479,Rotom,Trade from DPt,,,,
+480,Uxie,Trade from DPt,,,,
+481,Mesprit,Trade from DPt,,,,
+482,Azelf,Trade from DPt,,,,
+483,Dialga,Sinjoh Ruins,,,,
+484,Palkia,Sinjoh Ruins,,,,
+485,Heatran,Trade from DPt,,,,
+486,Regigigas,Trade from DPt,,,,
+487,Giratina,Sinjoh Ruins,,,,
+488,Cresselia,Trade from DPt,,,,
+489,Phione,Trade from DPt,,,,
+490,Manaphy,Trade from DPt,,,,
+491,Darkrai,Trade from DPt,,,,
+492,Shaymin,Trade from DPt,,,,
+493,Arceus,Trade from DPt,,,,
